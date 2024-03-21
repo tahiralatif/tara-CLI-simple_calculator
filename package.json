@@ -1,5 +1,5 @@
 {
-  "name": "simple-calculcator",
+  "name": "mutahira02-simple-calculcator",
   "version": "1.0.0",
   "description": "A simple calculator with typescript , node.js and inquirer",
   "main": "index.js",
